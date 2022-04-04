@@ -1,5 +1,0 @@
-    import csv
-with open("average-life-expectancycsv" , 'r')as csvflie:
-rows = csv. reader(csvflie)
-for row in rows:
-print(row)
